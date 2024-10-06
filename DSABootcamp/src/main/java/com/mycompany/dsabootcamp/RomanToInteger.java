@@ -1,4 +1,4 @@
-package assignments;
+package com.mycompany.dsabootcamp;
 
 import java.util.Scanner;
 
